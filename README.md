@@ -2,7 +2,7 @@
 Página de Login do App
 
 
-![Login](https://github.com/Miguxxo/pizzaria/assets/142364152/374fd3f2-7e98-462a-8fe8-8d50b1423e5a)
+![Login](https://github.com/Miguxxo/pizzaria/assets/142364152/a0082f8d-0808-45a9-9d24-8bb0bcf4ce02)
 
 
 Menu de Pizzas
